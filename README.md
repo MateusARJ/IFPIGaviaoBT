@@ -1,7 +1,7 @@
 # 🦅 IFPI Gavião - Cardápio Digital (Refatoração MVVM Simplificado)
 
 > **Atividade Prática de Programação para Dispositivos Móveis (PDM) - IFPI**  
-> **Professor:** Iallen Gábio de Sousa Santos
+> **Professor:** Iallen Gábio de Sousa Santos                               
 > **Aluno:** Mateus de Araujo
 ---
 
